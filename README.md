@@ -51,42 +51,6 @@ Dashboard sections:
 4. Templates
 5. Resources
 
-## Dashboard Preview
-
-![Widyatama Website Performance Dashboard](assets/dashboard-overview.png)
-
-### Live Dashboard
-
-[View Interactive Dashboard](https://fuja-fajrian.github.io/widyatama-website-performance-analysis/)
-
-## Tech Stack
-
-- Python
-- Google PageSpeed Insights API
-- Lighthouse
-- Chrome UX Report (CrUX)
-- Screaming Frog SEO Spider
-- Microsoft Excel
-- CSV / JSON Data Processing
-- HTML / CSS
-- Git & GitHub
-- GitHub Pages
-
-## Analysis Workflow
-
-1. Website Crawling
-2. URL Inventory & Classification
-3. PageSpeed Data Collection
-4. Data Cleaning & Validation
-5. Performance Baseline Analysis
-6. Core Web Vitals Analysis
-7. Root Cause Diagnostics
-8. Template-Level Pattern Analysis
-9. Remediation Priority Scoring
-10. Remediation Backlog Development
-11. Pilot Page Selection
-12. Dashboard Reporting
-
 ## Repository structure
 
 ```text
