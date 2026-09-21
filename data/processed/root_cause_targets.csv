@@ -1,0 +1,44 @@
+﻿Page_ID,URL,Final_Page_Type,Test_Priority,Mobile_Performance,Mobile_LCP,Technical_Severity,Final_Ranking,Business_Weight,Combined_Priority,Root_Cause_Status
+P006,https://pmb.widyatama.ac.id/biaya-kuliah-pascasarjana/,Pricing,P1 - Critical,57,15021.058662795178,8,5,3,24,Pending Diagnostic
+P010,https://pmb.widyatama.ac.id/program-rpl/,Program,P1 - Critical,57,18625.046512833273,8,5,5,40,Pending Diagnostic
+P011,https://pmb.widyatama.ac.id/biaya-kuliah-kelas-karyawan/,Pricing,P1 - Critical,57,15032.530493463997,8,5,5,40,Pending Diagnostic
+P012,https://pmb.widyatama.ac.id/jurusan/,Program,P1 - Critical,57,76222.39220683923,8,5,5,40,Pending Diagnostic
+P013,https://pmb.widyatama.ac.id/blog/,Content,P3 - Standard,56,18233.10020793002,8,5,2,16,Pending Diagnostic
+P014,https://pmb.widyatama.ac.id/biaya-kuliah-kelas-reguler/,Pricing,P1 - Critical,57,15020.040745094633,8,5,5,40,Pending Diagnostic
+P016,https://pmb.widyatama.ac.id/aktivitas-civitas/,Campus Life,P2 - High,56,19742.11127168316,8,5,3,24,Pending Diagnostic
+P018,https://pmb.widyatama.ac.id/cek-jalur-pendaftaran/,Admission,P1 - Critical,58,8958.524316926545,8,5,5,40,Pending Diagnostic
+P019,https://pmb.widyatama.ac.id/program-reguler/,Program,P1 - Critical,57,17356.576910499745,8,5,5,40,Pending Diagnostic
+P020,https://pmb.widyatama.ac.id/program-kelas-karyawan/,Program,P1 - Critical,57,15322.55968286161,8,5,5,40,Pending Diagnostic
+P021,https://pmb.widyatama.ac.id/fasilitas/,Campus Life,P2 - High,58,69447.71427505242,9,3,3,27,Pending Diagnostic
+P023,https://pmb.widyatama.ac.id/biaya-kuliah-rpl/,Pricing,P1 - Critical,57,15034.513193137507,8,5,5,40,Pending Diagnostic
+P024,https://pmb.widyatama.ac.id/apresiasi-prestasi-mahasiswa/,Campus Life,P2 - High,58,11946.055029726273,8,5,3,24,Pending Diagnostic
+P025,https://pmb.widyatama.ac.id/asuransi-mahasiswa/,Campus Life,P2 - High,45,13501.087522596972,10,1,3,30,Pending Diagnostic
+P026,https://pmb.widyatama.ac.id/organisasi-kemahasiswaan/,Campus Life,P2 - High,55,18924.07585951902,8,5,3,24,Pending Diagnostic
+P027,https://pmb.widyatama.ac.id/jalur-seleksi-unggulan/,Admission,P1 - Critical,57,18855.58291393244,8,5,5,40,Pending Diagnostic
+P029,https://pmb.widyatama.ac.id/jalur-pasca-reguler-maksi/,Admission,P1 - Critical,58,16001.047497377893,8,5,5,40,Pending Diagnostic
+P031,https://pmb.widyatama.ac.id/jalur-seleksi-mandiri/,Admission,P1 - Critical,58,15301.085725283978,8,5,5,40,Pending Diagnostic
+P032,https://pmb.widyatama.ac.id/jalur-seleksi-pmdk/,Admission,P1 - Critical,57,19595.59325346681,8,5,5,40,Pending Diagnostic
+P033,https://pmb.widyatama.ac.id/jalur-seleksi-utama/,Admission,P1 - Critical,59,17101.072139361786,8,5,5,40,Pending Diagnostic
+P034,https://pmb.widyatama.ac.id/jalur-doktoral-reguler/,Admission,P1 - Critical,59,15901.072989273216,8,5,5,40,Pending Diagnostic
+P036,https://pmb.widyatama.ac.id/jalur-seleksi-khusus/,Admission,P1 - Critical,57,18181.55073299896,8,5,5,40,Pending Diagnostic
+P037,https://pmb.widyatama.ac.id/jalur-seleksi-prioritas/,Admission,P1 - Critical,54,13398.072347391575,8,5,5,40,Pending Diagnostic
+P042,https://pmb.widyatama.ac.id/aktivitas-civitas/2/,Campus Life,P2 - High,58,16201.088185322487,8,5,3,24,Pending Diagnostic
+P045,https://pmb.widyatama.ac.id/2025/09/19/,Content Review,P4 - Content Audit,56,16051.108862632724,8,5,1,8,Pending Diagnostic
+P054,https://pmb.widyatama.ac.id/program-studi/doktor-ilmu-manajemen/,Program,P1 - Critical,57,17701.090049580365,8,5,5,40,Pending Diagnostic
+P055,https://pmb.widyatama.ac.id/program-studi/program-profesi-akuntansi/,Program,P1 - Critical,56,18008.700723310692,8,5,5,40,Pending Diagnostic
+P056,https://pmb.widyatama.ac.id/program-studi/magister-akuntansi/,Program,P1 - Critical,57,17101.08828587268,8,5,5,40,Pending Diagnostic
+P060,https://pmb.widyatama.ac.id/jalur-seleksi-mahasiswa-asing-international/,Admission,P1 - Critical,59,15451.046310406602,8,5,5,40,Pending Diagnostic
+P061,https://pmb.widyatama.ac.id/program-studi/teknik-mesin-s1/,Program,P1 - Critical,57,19576.13135596256,8,5,5,40,Pending Diagnostic
+P063,https://pmb.widyatama.ac.id/program-studi/bahasa-jepang-s1/,Program,P1 - Critical,57,20626.10650676758,8,5,5,40,Pending Diagnostic
+P069,https://pmb.widyatama.ac.id/program-studi/teknik-industri-s1/,Program,P1 - Critical,57,21526.094681773873,8,5,5,40,Pending Diagnostic
+P071,https://pmb.widyatama.ac.id/program-studi/sistem-informasi-s1/,Program,P1 - Critical,50,19801.133185104336,8,5,5,40,Pending Diagnostic
+P072,https://pmb.widyatama.ac.id/program-studi/teknik-informatika-s1/,Program,P1 - Critical,57,20401.081051726476,8,5,5,40,Pending Diagnostic
+P073,https://pmb.widyatama.ac.id/program-studi/akuntansi-s1/,Program,P1 - Critical,57,22201.09634132807,8,5,5,40,Pending Diagnostic
+P074,https://pmb.widyatama.ac.id/program-studi/creative-business-management-d3/,Program,P1 - Critical,57,22651.082829396215,8,5,5,40,Pending Diagnostic
+P075,https://pmb.widyatama.ac.id/program-studi/film-and-television-production-d4/,Program,P1 - Critical,57,20476.13203188803,8,5,5,40,Pending Diagnostic
+P081,https://online.pmb.widyatama.ac.id/hasil,Registration System,P1 - Critical,58,9364.449686425178,8,5,5,40,Pending Diagnostic
+P082,https://pmb.widyatama.ac.id/program-studi/interactive-multimedia-d3/,Program,P1 - Critical,52,25599.16320497942,9,3,5,45,Pending Diagnostic
+P084,https://pmb.widyatama.ac.id/category/science-and-technology/,Content Archive,P3 - Standard,56,18532.096145792257,8,5,2,16,Pending Diagnostic
+P085,https://pmb.widyatama.ac.id/category/medicine/,Content Archive,P3 - Standard,54,16351.089124349448,8,5,2,16,Pending Diagnostic
+P086,https://pmb.widyatama.ac.id/category/law-and-policy/,Content Archive,P3 - Standard,56,18532.100404837558,8,5,2,16,Pending Diagnostic
+P087,https://pmb.widyatama.ac.id/2025/09/13/,Content Review,P4 - Content Audit,47,15901.062268884152,10,1,1,10,Pending Diagnostic

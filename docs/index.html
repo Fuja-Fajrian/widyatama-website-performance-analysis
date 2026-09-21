@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Widyatama Website Performance Analysis Dashboard</title>
+<style>
+:root{--bg:#f5f7fb;--card:#fff;--text:#182033;--muted:#657089;--line:#dfe4ee;--accent:#2457c5}
+*{box-sizing:border-box}
+body{margin:0;font-family:Arial,Helvetica,sans-serif;background:var(--bg);color:var(--text)}
+.wrap{max-width:1180px;margin:0 auto;padding:32px 20px 56px}
+header{margin-bottom:28px}.eyebrow{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}
+h1{margin:8px 0 10px;font-size:clamp(32px,5vw,52px);line-height:1.05}
+.lead{max-width:850px;color:var(--muted);font-size:17px;line-height:1.65}
+.tabs{display:flex;gap:8px;flex-wrap:wrap;margin:24px 0}.tab{border:1px solid var(--line);background:var(--card);padding:10px 14px;border-radius:999px;font-weight:700}
+.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}.card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 10px 30px rgba(24,32,51,.06)}
+.kpi{font-size:38px;font-weight:800;margin:8px 0}.label{font-size:13px;color:var(--muted);line-height:1.45}
+.section{margin-top:20px}.section h2{margin:0 0 14px;font-size:22px}.pipeline{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.step{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:17px}.step b{display:block;margin-bottom:6px}.step span{color:var(--muted);font-size:13px;line-height:1.45}
+.bar{height:10px;background:#e8edf7;border-radius:999px;overflow:hidden;margin-top:9px}.fill{height:100%;background:var(--accent);border-radius:inherit}
+.note{margin-top:20px;padding:17px;border:1px dashed var(--line);border-radius:16px;color:var(--muted);background:#fff}footer{margin-top:34px;color:var(--muted);font-size:13px}
+@media(max-width:850px){.grid,.pipeline{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.grid,.pipeline{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<div class="eyebrow">Website Performance & Technical SEO Analysis</div>
+<h1>From 119 URLs to an Actionable Remediation Strategy</h1>
+<p class="lead">Portfolio dashboard summarizing the workflow used to turn a broad crawl of the PMB Widyatama website into structured performance evidence, root-cause analysis, prioritization, and a decision-ready dashboard.</p>
+</header>
+
+<div class="tabs">
+<span class="tab">Overview</span><span class="tab">Performance</span><span class="tab">SEO</span><span class="tab">Templates</span><span class="tab">Resources</span>
+</div>
+
+<section class="grid">
+<article class="card"><div class="label">Internal URLs discovered</div><div class="kpi">627</div><div class="label">Initial crawl inventory</div></article>
+<article class="card"><div class="label">Internal HTML URLs audited</div><div class="kpi">119</div><div class="label">Primary analysis scope</div></article>
+<article class="card"><div class="label">PageSpeed API rows</div><div class="kpi">174</div><div class="label">Mobile and desktop observations</div></article>
+<article class="card"><div class="label">Smoke-tested pages</div><div class="kpi">43</div><div class="label">Targeted validation evidence</div></article>
+</section>
+
+<section class="card section">
+<h2>Analysis coverage</h2>
+<div class="label">119 audited HTML URLs</div><div class="bar"><div class="fill" style="width:100%"></div></div>
+<div class="label" style="margin-top:12px">87 pages represented in PageSpeed baseline analysis</div><div class="bar"><div class="fill" style="width:73.1%"></div></div>
+<div class="label" style="margin-top:12px">43 pages smoke-tested</div><div class="bar"><div class="fill" style="width:36.1%"></div></div>
+</section>
+
+<section class="section">
+<h2>Analytical pipeline</h2>
+<div class="pipeline">
+<div class="step"><b>1. Site Crawl</b><span>Inventory internal URLs and isolate relevant HTML pages.</span></div>
+<div class="step"><b>2. Performance Diagnostic</b><span>Structure page-level PageSpeed and Core Web Vitals evidence.</span></div>
+<div class="step"><b>3. Root Cause</b><span>Investigate recurring issues across templates, images, scripts, and resources.</span></div>
+<div class="step"><b>4. Prioritization</b><span>Translate findings into a remediation backlog and dashboard.</span></div>
+</div>
+</section>
+
+<section class="card section">
+<h2>What the dashboard communicates</h2>
+<p class="lead" style="font-size:15px;margin:0">The final analytical deliverable focuses on five decision areas: overall website scope, performance evidence, technical SEO, recurring template-level issues, and resource-level root causes. The objective is not simply to report scores, but to connect symptoms to repeatable technical patterns and prioritize what should be fixed first.</p>
+</section>
+
+<div class="note"><b>Portfolio scope:</b> this release intentionally stops at the analysis and dashboard stage. Production remediation and post-fix validation are outside the published portfolio scope.</div>
+<footer>Target website: https://pmb.widyatama.ac.id/ · Portfolio case study</footer>
+</div>
+</body>
+</html>

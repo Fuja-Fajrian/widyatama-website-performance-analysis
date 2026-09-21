@@ -1,0 +1,6 @@
+﻿metric,value,interpretation
+Internal URLs discovered during crawl,627,Initial crawl inventory
+Internal HTML URLs retained for audit,119,Primary website audit scope
+PageSpeed API test rows,174,Mobile/desktop PageSpeed API observations
+Pages in PageSpeed baseline analysis,87,Pages represented in baseline performance analysis
+Pages smoke-tested,43,Pages used in targeted smoke-test validation

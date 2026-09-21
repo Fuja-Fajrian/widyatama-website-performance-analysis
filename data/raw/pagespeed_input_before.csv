@@ -1,0 +1,175 @@
+﻿Test_ID;Page_ID;URL;Device;Final_Page_Type;Speed_Test_Segment;Test_Priority;Baseline_ID;Analysis_Phase
+T001;P001;https://pmb.widyatama.ac.id/;mobile;Homepage;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T002;P001;https://pmb.widyatama.ac.id/;desktop;Homepage;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T003;P002;https://pmb.widyatama.ac.id/petunjuk-pendaftaran/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T004;P002;https://pmb.widyatama.ac.id/petunjuk-pendaftaran/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T005;P003;https://pmb.widyatama.ac.id/jenjang-pendidikan/;mobile;Information;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T006;P003;https://pmb.widyatama.ac.id/jenjang-pendidikan/;desktop;Information;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T007;P004;https://pmb.widyatama.ac.id/privacy-policy/;mobile;Policy;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T008;P004;https://pmb.widyatama.ac.id/privacy-policy/;desktop;Policy;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T009;P005;https://pmb.widyatama.ac.id/cookie-policy/;mobile;Policy;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T010;P005;https://pmb.widyatama.ac.id/cookie-policy/;desktop;Policy;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T011;P006;https://pmb.widyatama.ac.id/biaya-kuliah-pascasarjana/;mobile;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T012;P006;https://pmb.widyatama.ac.id/biaya-kuliah-pascasarjana/;desktop;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T013;P007;https://pmb.widyatama.ac.id/mahasiswa-internasional/;mobile;International;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T014;P007;https://pmb.widyatama.ac.id/mahasiswa-internasional/;desktop;International;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T015;P008;https://pmb.widyatama.ac.id/output-lulusan/;mobile;Information;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T016;P008;https://pmb.widyatama.ac.id/output-lulusan/;desktop;Information;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T017;P009;https://pmb.widyatama.ac.id/beasiswa-mahasiswa-aktif/;mobile;Campaign;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T018;P009;https://pmb.widyatama.ac.id/beasiswa-mahasiswa-aktif/;desktop;Campaign;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T019;P010;https://pmb.widyatama.ac.id/program-rpl/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T020;P010;https://pmb.widyatama.ac.id/program-rpl/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T021;P011;https://pmb.widyatama.ac.id/biaya-kuliah-kelas-karyawan/;mobile;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T022;P011;https://pmb.widyatama.ac.id/biaya-kuliah-kelas-karyawan/;desktop;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T023;P012;https://pmb.widyatama.ac.id/jurusan/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T024;P012;https://pmb.widyatama.ac.id/jurusan/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T025;P013;https://pmb.widyatama.ac.id/blog/;mobile;Content;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T026;P013;https://pmb.widyatama.ac.id/blog/;desktop;Content;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T027;P014;https://pmb.widyatama.ac.id/biaya-kuliah-kelas-reguler/;mobile;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T028;P014;https://pmb.widyatama.ac.id/biaya-kuliah-kelas-reguler/;desktop;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T029;P015;https://online.pmb.widyatama.ac.id/;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T030;P015;https://online.pmb.widyatama.ac.id/;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T031;P016;https://pmb.widyatama.ac.id/aktivitas-civitas/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T032;P016;https://pmb.widyatama.ac.id/aktivitas-civitas/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T033;P017;https://pmb.widyatama.ac.id/program-pascasarjana/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T034;P017;https://pmb.widyatama.ac.id/program-pascasarjana/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T035;P018;https://pmb.widyatama.ac.id/cek-jalur-pendaftaran/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T036;P018;https://pmb.widyatama.ac.id/cek-jalur-pendaftaran/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T037;P019;https://pmb.widyatama.ac.id/program-reguler/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T038;P019;https://pmb.widyatama.ac.id/program-reguler/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T039;P020;https://pmb.widyatama.ac.id/program-kelas-karyawan/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T040;P020;https://pmb.widyatama.ac.id/program-kelas-karyawan/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T041;P021;https://pmb.widyatama.ac.id/fasilitas/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T042;P021;https://pmb.widyatama.ac.id/fasilitas/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T043;P022;https://pmb.widyatama.ac.id/jalur-seleksi/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T044;P022;https://pmb.widyatama.ac.id/jalur-seleksi/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T045;P023;https://pmb.widyatama.ac.id/biaya-kuliah-rpl/;mobile;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T046;P023;https://pmb.widyatama.ac.id/biaya-kuliah-rpl/;desktop;Pricing;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T047;P024;https://pmb.widyatama.ac.id/apresiasi-prestasi-mahasiswa/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T048;P024;https://pmb.widyatama.ac.id/apresiasi-prestasi-mahasiswa/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T049;P025;https://pmb.widyatama.ac.id/asuransi-mahasiswa/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T050;P025;https://pmb.widyatama.ac.id/asuransi-mahasiswa/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T051;P026;https://pmb.widyatama.ac.id/organisasi-kemahasiswaan/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T052;P026;https://pmb.widyatama.ac.id/organisasi-kemahasiswaan/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T053;P027;https://pmb.widyatama.ac.id/jalur-seleksi-unggulan/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T054;P027;https://pmb.widyatama.ac.id/jalur-seleksi-unggulan/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T055;P028;https://pmb.widyatama.ac.id/jalur-reguler-pendidikan-profesi/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T056;P028;https://pmb.widyatama.ac.id/jalur-reguler-pendidikan-profesi/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T057;P029;https://pmb.widyatama.ac.id/jalur-pasca-reguler-maksi/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T058;P029;https://pmb.widyatama.ac.id/jalur-pasca-reguler-maksi/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T059;P030;https://pmb.widyatama.ac.id/jalur-pasca-reguler-mm/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T060;P030;https://pmb.widyatama.ac.id/jalur-pasca-reguler-mm/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T061;P031;https://pmb.widyatama.ac.id/jalur-seleksi-mandiri/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T062;P031;https://pmb.widyatama.ac.id/jalur-seleksi-mandiri/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T063;P032;https://pmb.widyatama.ac.id/jalur-seleksi-pmdk/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T064;P032;https://pmb.widyatama.ac.id/jalur-seleksi-pmdk/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T065;P033;https://pmb.widyatama.ac.id/jalur-seleksi-utama/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T066;P033;https://pmb.widyatama.ac.id/jalur-seleksi-utama/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T067;P034;https://pmb.widyatama.ac.id/jalur-doktoral-reguler/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T068;P034;https://pmb.widyatama.ac.id/jalur-doktoral-reguler/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T069;P035;https://pmb.widyatama.ac.id/jalur-seleksi-reguler/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T070;P035;https://pmb.widyatama.ac.id/jalur-seleksi-reguler/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T071;P036;https://pmb.widyatama.ac.id/jalur-seleksi-khusus/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T072;P036;https://pmb.widyatama.ac.id/jalur-seleksi-khusus/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T073;P037;https://pmb.widyatama.ac.id/jalur-seleksi-prioritas/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T074;P037;https://pmb.widyatama.ac.id/jalur-seleksi-prioritas/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T075;P038;https://online.pmb.widyatama.ac.id/register/fst;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T076;P038;https://online.pmb.widyatama.ac.id/register/fst;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T077;P039;https://online.pmb.widyatama.ac.id/register/kk;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T078;P039;https://online.pmb.widyatama.ac.id/register/kk;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T079;P040;https://online.pmb.widyatama.ac.id/register/s3;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T080;P040;https://online.pmb.widyatama.ac.id/register/s3;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T081;P041;https://pmb.widyatama.ac.id/aktivitas-civitas/3/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T082;P041;https://pmb.widyatama.ac.id/aktivitas-civitas/3/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T083;P042;https://pmb.widyatama.ac.id/aktivitas-civitas/2/;mobile;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T084;P042;https://pmb.widyatama.ac.id/aktivitas-civitas/2/;desktop;Campus Life;Core PMB Website;P2 - High;BL_20260821;BEFORE
+T085;P043;https://online.pmb.widyatama.ac.id/auth/login;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T086;P043;https://online.pmb.widyatama.ac.id/auth/login;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T087;P044;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T088;P044;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T089;P045;https://pmb.widyatama.ac.id/2025/09/19/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T090;P045;https://pmb.widyatama.ac.id/2025/09/19/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T091;P046;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-4/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T092;P046;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-4/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T093;P047;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar-3/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T094;P047;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar-3/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T095;P048;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-2/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T096;P048;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-2/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T097;P049;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar-2/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T098;P049;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar-2/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T099;P050;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T100;P050;https://pmb.widyatama.ac.id/the-hidden-dangers-of-sugar/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T101;P051;https://pmb.widyatama.ac.id/the-rapid-advancement-of-digital-technology/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T102;P051;https://pmb.widyatama.ac.id/the-rapid-advancement-of-digital-technology/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T103;P052;https://pmb.widyatama.ac.id/the-rapid-advancement-of-digital-technology-2/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T104;P052;https://pmb.widyatama.ac.id/the-rapid-advancement-of-digital-technology-2/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T105;P053;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-3/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T106;P053;https://pmb.widyatama.ac.id/democracy-in-indonesia-why-it-feels-weak-at-the-grassroots-3/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T107;P054;https://pmb.widyatama.ac.id/program-studi/doktor-ilmu-manajemen/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T108;P054;https://pmb.widyatama.ac.id/program-studi/doktor-ilmu-manajemen/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T109;P055;https://pmb.widyatama.ac.id/program-studi/program-profesi-akuntansi/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T110;P055;https://pmb.widyatama.ac.id/program-studi/program-profesi-akuntansi/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T111;P056;https://pmb.widyatama.ac.id/program-studi/magister-akuntansi/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T112;P056;https://pmb.widyatama.ac.id/program-studi/magister-akuntansi/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T113;P057;https://online.pmb.widyatama.ac.id/register/rpl;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T114;P057;https://online.pmb.widyatama.ac.id/register/rpl;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T115;P058;https://online.pmb.widyatama.ac.id/register/reg;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T116;P058;https://online.pmb.widyatama.ac.id/register/reg;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T117;P059;https://online.pmb.widyatama.ac.id/register/sps;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T118;P059;https://online.pmb.widyatama.ac.id/register/sps;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T119;P060;https://pmb.widyatama.ac.id/jalur-seleksi-mahasiswa-asing-international/;mobile;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T120;P060;https://pmb.widyatama.ac.id/jalur-seleksi-mahasiswa-asing-international/;desktop;Admission;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T121;P061;https://pmb.widyatama.ac.id/program-studi/teknik-mesin-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T122;P061;https://pmb.widyatama.ac.id/program-studi/teknik-mesin-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T123;P062;https://pmb.widyatama.ac.id/program-studi/branding-design-strategy-d4/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T124;P062;https://pmb.widyatama.ac.id/program-studi/branding-design-strategy-d4/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T125;P063;https://pmb.widyatama.ac.id/program-studi/bahasa-jepang-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T126;P063;https://pmb.widyatama.ac.id/program-studi/bahasa-jepang-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T127;P064;https://pmb.widyatama.ac.id/program-studi/japanese-for-business-and-tourism-d3/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T128;P064;https://pmb.widyatama.ac.id/program-studi/japanese-for-business-and-tourism-d3/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T129;P065;https://pmb.widyatama.ac.id/program-studi/teknik-sipil-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T130;P065;https://pmb.widyatama.ac.id/program-studi/teknik-sipil-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T131;P066;https://pmb.widyatama.ac.id/program-studi/manajemen-sumber-daya-manusia-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T132;P066;https://pmb.widyatama.ac.id/program-studi/manajemen-sumber-daya-manusia-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T133;P067;https://pmb.widyatama.ac.id/program-studi/manajemen-operasional-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T134;P067;https://pmb.widyatama.ac.id/program-studi/manajemen-operasional-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T135;P068;https://pmb.widyatama.ac.id/program-studi/manajemen-kewirausahaan-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T136;P068;https://pmb.widyatama.ac.id/program-studi/manajemen-kewirausahaan-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T137;P069;https://pmb.widyatama.ac.id/program-studi/teknik-industri-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T138;P069;https://pmb.widyatama.ac.id/program-studi/teknik-industri-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T139;P070;https://pmb.widyatama.ac.id/program-studi/manajemen-keuangan-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T140;P070;https://pmb.widyatama.ac.id/program-studi/manajemen-keuangan-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T141;P071;https://pmb.widyatama.ac.id/program-studi/sistem-informasi-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T142;P071;https://pmb.widyatama.ac.id/program-studi/sistem-informasi-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T143;P072;https://pmb.widyatama.ac.id/program-studi/teknik-informatika-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T144;P072;https://pmb.widyatama.ac.id/program-studi/teknik-informatika-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T145;P073;https://pmb.widyatama.ac.id/program-studi/akuntansi-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T146;P073;https://pmb.widyatama.ac.id/program-studi/akuntansi-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T147;P074;https://pmb.widyatama.ac.id/program-studi/creative-business-management-d3/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T148;P074;https://pmb.widyatama.ac.id/program-studi/creative-business-management-d3/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T149;P075;https://pmb.widyatama.ac.id/program-studi/film-and-television-production-d4/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T150;P075;https://pmb.widyatama.ac.id/program-studi/film-and-television-production-d4/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T151;P076;https://pmb.widyatama.ac.id/program-studi/manajemen-pemasaran-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T152;P076;https://pmb.widyatama.ac.id/program-studi/manajemen-pemasaran-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T153;P077;https://pmb.widyatama.ac.id/program-studi/perpustakaan-sains-informasi-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T154;P077;https://pmb.widyatama.ac.id/program-studi/perpustakaan-sains-informasi-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T155;P078;https://pmb.widyatama.ac.id/program-studi/bahasa-inggris-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T156;P078;https://pmb.widyatama.ac.id/program-studi/bahasa-inggris-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T157;P079;https://pmb.widyatama.ac.id/program-studi/digital-accounting-d3/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T158;P079;https://pmb.widyatama.ac.id/program-studi/digital-accounting-d3/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T159;P080;https://pmb.widyatama.ac.id/program-studi/teknik-elektro-s1/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T160;P080;https://pmb.widyatama.ac.id/program-studi/teknik-elektro-s1/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T161;P081;https://online.pmb.widyatama.ac.id/hasil;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T162;P081;https://online.pmb.widyatama.ac.id/hasil;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T163;P082;https://pmb.widyatama.ac.id/program-studi/interactive-multimedia-d3/;mobile;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T164;P082;https://pmb.widyatama.ac.id/program-studi/interactive-multimedia-d3/;desktop;Program;Core PMB Website;P1 - Critical;BL_20260821;BEFORE
+T165;P083;https://online.pmb.widyatama.ac.id/auth/forgot_password;mobile;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T166;P083;https://online.pmb.widyatama.ac.id/auth/forgot_password;desktop;Registration System;Registration System;P1 - Critical;BL_20260821;BEFORE
+T167;P084;https://pmb.widyatama.ac.id/category/science-and-technology/;mobile;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T168;P084;https://pmb.widyatama.ac.id/category/science-and-technology/;desktop;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T169;P085;https://pmb.widyatama.ac.id/category/medicine/;mobile;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T170;P085;https://pmb.widyatama.ac.id/category/medicine/;desktop;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T171;P086;https://pmb.widyatama.ac.id/category/law-and-policy/;mobile;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T172;P086;https://pmb.widyatama.ac.id/category/law-and-policy/;desktop;Content Archive;Core PMB Website;P3 - Standard;BL_20260821;BEFORE
+T173;P087;https://pmb.widyatama.ac.id/2025/09/13/;mobile;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
+T174;P087;https://pmb.widyatama.ac.id/2025/09/13/;desktop;Content Review;Content Audit;P4 - Content Audit;BL_20260821;BEFORE
